@@ -29,7 +29,8 @@ This project demonstrates the training and deployment on Streamlit of a YOLOv10 
     ```
 
 ## Usage
-    Deployment on Streamlit:
+Deployment on Streamlit:
+
     ```bash
     streamlit run app.py
     ```
