@@ -20,8 +20,8 @@ This project demonstrates the training and deployment on Streamlit of a YOLOv10 
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/helmet-detection-yolov10.git
-   cd helmet-detection-yolov10
+   git clone https://github.com/TrungKiencding/Safety-Helmet-Detection-Based-On-YOLO-V10
+   cd Safety-Helmet-Detection-Based-On-YOLO-V10
    ```
 2. **Install the required dependencies:**
     ```bash
@@ -30,6 +30,7 @@ This project demonstrates the training and deployment on Streamlit of a YOLOv10 
 
 ## Usage
 Deployment on Streamlit:
+
     ```bash
     streamlit run app.py
     ```
